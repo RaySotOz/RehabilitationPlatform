@@ -7,7 +7,7 @@ Block diagram of the project: <br/>
 <br />
 
 <h2>Description of the project</h2>
-Project consists of obtaining the biosignals of the muscles to turn them into commands for playing videogames. Also, with the aid of MPU6050 it is possible to control the mouse and the WASD keyboard. So, the body becomes the full control of the virtual avatar. The purpose is to rehabilitate upper limb amputees physically and with their daily duties. Also, it provides the training for controling a myoelectric prosthesis. For this, three minigames were created each of them has a particularly goal.    
+Project consists of obtaining the biosignals of the muscles to turn them into commands for playing videogames. Also, with the aid of MPU6050 it is possible to control the mouse and the WASD keyboards. So, the body becomes the controller of the virtual avatar. The purpose is to rehabilitate upper limb amputees physically and with their daily duties. Also, it provides the training for controling a myoelectric prosthesis. For this, three minigames were created each of them has a particularly goal.    
 
 <h2>Description tutorial game</h2>
 In this minigame there is a doctor that tell the type of contraction that is needed to make the virtual hand move. In the left part of the corner all the different movements appear and until the user succeed in introduce all the command the user can not exit the minigame. 
