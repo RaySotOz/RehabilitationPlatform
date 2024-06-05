@@ -1,30 +1,31 @@
 <h1>Rehabilitation platform for upper limb amputees</h1>
 
-<h2>Description game tutorial</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+<p align="center">
+Block diagram of the project: <br/>
+<img src="https://github.com/RaySotOz/RehabilitationPlatform/assets/148705262/1b508f30-9d3e-41e4-a04b-998d68cf2841">
+<br />
 <br />
 
- ### [YouTube Demonstration](https://youtu.be/sI5_naCPDfw)
+<h2>Description of the project</h2>
+Project consists of obtaining the biosignals of the muscles to turn them into commands for playing videogames. Also, with the aid of MPU6050 it is possible to control the mouse and the WASD keyboard. So, the body becomes the full control of the virtual avatar. The purpose is to rehabilitate upper limb amputees physically and with their daily duties. Also, it provides the training for controling a myoelectric prosthesis. For this, three minigames were created each of them has a particularly goal.    
+
+<h2>Description tutorial game</h2>
+In this minigame there is a doctor that tell the type of contraction that is needed to make the virtual hand move. In the left part of the corner all the different movements appear and until the user succeed in introduce all the command the user can not exit the minigame. 
+<br />
+
+### [Tutorial Minigame Demonstration](https://youtu.be/sI5_naCPDfw)
 
 <h2>Description paint game</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+In this minigame the user control the movement of the mouse with the arm and with the contraction of the muscles controls the mouse buttons. The interface is like Paint software and it has two modalities. Free painting and fill the dots minigame. This minigame has the purpose of giving physical therapy. 
 <br />
 
- ### [YouTube Demonstration](https://youtu.be/lByhlmqEMWQ)
+### [Paint Game Demonstration](https://youtu.be/lByhlmqEMWQ)
 
 <h2>Description occupational therapy game</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+In this minigame there is a room fill with objects. Some objects can be grab by the virtual arm. For controlling the arm movements the user has to give different pattern contractions and for moving around the user has to bend in different directions and move their arm to control the visual field. This application has the purpose to train the user on how to deal with daily tasks while the user has a myoeletric prosthesis. The application is embedded with artificial intelligence, so the difficulty of the level is modified depending on the performance of the player.  
 <br />
 
- ### [YouTube Demonstration](https://youtu.be/5b8F56pXhzY)
-
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
+### [Occupational Therapy Demonstration](https://youtu.be/5b8F56pXhzY)
 
 <!--
  ```diff
